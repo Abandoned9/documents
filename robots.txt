@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https:/blog.dimitriyoon.top/sitemap.xml
+Host: https://blog.dimitriyoon.top
